@@ -1,0 +1,3 @@
+set database name
+
+simpleman
